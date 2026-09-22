@@ -1,90 +1,13 @@
 [
   {
-    "id": 8,
-    "date": "22-Sentyabr, 2026",
-    "date_iso": "2026-09-22",
-    "time": "18:40",
-    "author": "Malika Yusupova",
-    "title": "Choyxona kechasi va eski do'stlar",
-    "cover_image": null,
-    "content": "Uch yildan keyin barchasi yig'ildi. Choy, non va **savos** — ortiqcha hech narsa kerak emas ekan.\n\nEng yaxshi gap: bir soat davomida hech kim telefonga qaramadi. Buni **odat** qilishimiz kerak.",
-    "tags": ["do'stlar", "choy"]
-  },
-  {
-    "id": 5,
-    "date": "22-Sentyabr, 2026",
-    "date_iso": "2026-09-22",
-    "time": "14:30",
-    "author": "Samir",
-    "title": "Bugungi unutilmas voqea va yangi bosqich",
-    "cover_image": "media/cover2.jpg",
-    "content": "Bugun yangi loyiha ustida **ish boshladim**. Bu borada [GitHub](https://github.com/pycadev) orqali barcha kodlarni versiyalab bormoqchiman.\n\n![Loyihadan rasm](media/post1.jpg)\n\nAsosiy maqsad — **Apple** uslubida ultra-tez va qulay interfeys yaratish edi.\n\nOldi qadamlar:\n- Dizayn tizimini belgiladim\n- Statik arxitektura tanladim — server'siz, 0$\n- Mobil UX uchun har bir pikselni hisobga oldim\n\nKelgusi hafta birinchi versiyani nashr qilaman. Ildizlar otildi 🌱",
-    "tags": ["dasturlash", "shaxsiy"]
-  },
-  {
-    "id": 7,
-    "date": "21-Sentyabr, 2026",
-    "date_iso": "2026-09-21",
-    "time": "22:15",
-    "author": "Samir",
-    "title": "Kechki piyoda, ertalabki reja",
-    "cover_image": null,
-    "content": "Kechqurun mahalla bo'ylab **20 daqiqa** piyoda yurdim. Ekranni o'chirdim — boshim tozalandi.\n\nXulosa: fikr kelmasa, **oyoqdan boshla**.",
-    "tags": ["piyoda", "odamlar"]
-  },
-  {
-    "id": 4,
-    "date": "21-Sentyabr, 2026",
-    "date_iso": "2026-09-21",
-    "time": "19:12",
-    "author": "Aisha Karimova",
-    "title": "Babamning qadimiy qaymoq retsepti",
-    "cover_image": null,
-    "content": "Babuylarimizdan qolgan **eski daftar**ni topdim. Ichida onamning qo'li bilan yozilgan qaymoq retsepti bor.\n\nBugun sinab ko'rdim. Asosiy farqi — **sabr**. Onam har doim aytardi: qaymoq shoshilsa, qovuriladi.\n\nKeyinroq retseptni to'liq yozib, daraxtga osaman. Oila uchun eng kichik xotiralar — eng katta ildizlar.",
-    "tags": ["oila", "retsept"]
-  },
-  {
-    "id": 6,
-    "date": "21-Sentyabr, 2026",
-    "date_iso": "2026-09-21",
-    "time": "09:30",
-    "author": "Dilnoza Ismoilova",
-    "title": "Birinchi oylik, birinchi harita",
-    "cover_image": null,
-    "content": "Oylikka birinchi marta chiqqan kuni o'zimga **harita** sovg'a qildim: bir tomoniga maqsadlar, ikkinchi tomoniga ularga yetish yo'llari.\n\nRaqamlar emas, **yo'nalish** muhim ekan.",
-    "tags": ["ish", "maqsad"]
-  },
-  {
-    "id": 3,
-    "date": "20-Sentyabr, 2026",
-    "date_iso": "2026-09-20",
-    "time": "08:45",
-    "author": "Samir",
-    "title": "Tushdan keyingi oltmish daqiqa",
-    "cover_image": null,
-    "content": "O'zimga bir tamom qo'ydim: tushdan keyin **bir daqiqa ham** telefonga qaramayman.\n\nOltmish daqiqa ichida:\n- Kunlikni yozdim\n- Kitobdan 30 sahifa o'qidim\n- Ertalabki ishni rejalashtirdim\n\nNatija: tushdan keyingi uyqu yo'qolmadi, lekin **samardorlik** paydo bo'ldi.",
-    "tags": ["odatlar"]
-  },
-  {
-    "id": 2,
-    "date": "18-Sentyabr, 2026",
-    "date_iso": "2026-09-18",
-    "time": "16:05",
-    "author": "Bekzod Rahimov",
-    "title": "Samarqand: Registon kechuasi",
-    "cover_image": "media/cover1.jpg",
-    "content": "Registon maydoni kechqurun — so'z bilan aytiladigan manzara emas.\n\nOqshom shu'lasida mo'rtlar **oltin rangga** bo'yaladi, maydon esa choyxona xushbui bilan to'ldi. Ota-onamiz shu maydonda qanday his qilganini endi tushunib yetdim.\n\n[Samarqand haqida ko'proq](https://uz.wikipedia.org/wiki/Samarqand) — lekin hech qanday havola buning o'rnini bosmaydi.",
-    "tags": ["sayohat", "samarqand"]
-  },
-  {
     "id": 1,
-    "date": "15-Sentyabr, 2026",
-    "date_iso": "2026-09-15",
-    "time": "21:00",
-    "author": "Samir",
-    "title": "Bu daraxt nima uchun o'sdi",
+    "date": "22-Sentyabr, 2026",
+    "date_iso": "2026-09-22",
+    "time": "00:00",
+    "author": "Samirbek Jabborov",
+    "title": "Mening birinchi xotiram",
     "cover_image": null,
-    "content": "Bugun bir qaror qildim: xotiralarni bitta joyda, **daraxt** ko'rinishida jamoalam.\n\nG'oya oddiy:\n- Har bir xotira — **shoxa**\n- Har bir muallif — **o'z rangida**\n- Har bir qator — **yangi ildizcha**\n\nBu sayt orqali istalgan odam o'z xotirasini bir necha qator bilan qo'sha oladi. Vaqt o'tgach, bu daraxt bizning umumiy xotiramizga aylanadi.\n\nBirinchi ildiz — shu xotira. 🌱",
-    "tags": ["loyiha"]
+    "content": "Bu mening birinchi xotiram. Shu sahifa orqali hayotimdagi muhim lahzalar, fikrlar va kichik quvonchlarni saqlab boraman. Har bir yangi yozuv men uchun qadrli xotiraga aylanadi.",
+    "tags": ["birinchi xotira"]
   }
 ]
