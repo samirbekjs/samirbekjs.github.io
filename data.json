@@ -20,5 +20,16 @@
     "cover_image": null,
     "content": "Siz bu blokni o'qiy olyapsizmi? Demak bu sizga atalgan. Endi daraxt shakllantirishim mumkin. Tarixni chiroyli yozishib qoldirishimiz mumkin. Bu loyiham bugun tugadi va birinchi sizga ilindim quyoshim.",
     "tags": ["birinchi xotira"]
+  },
+  {
+    "id": 3,
+    "date": "22-Sentyabr, 2026",
+    "date_iso": "2026-09-22",
+    "time": "16:44",
+    "author": "Iymonaxon",
+    "title": "Nimadir yozing?",
+    "cover_image": null,
+    "content": "Oylab olay etaman",
+    "tags": ["birinchi xotira"]
   }
 ]
