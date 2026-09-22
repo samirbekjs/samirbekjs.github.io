@@ -31,5 +31,16 @@
     "cover_image": null,
     "content": "Oylab olay etaman",
     "tags": ["birinchi xotira"]
+  },
+  {
+    "id": 4,
+    "date": "22-Sentyabr, 2026",
+    "date_iso": "2026-09-22",
+    "time": "7:23 PM",
+    "author": "Samirbek Jabborov",
+    "title": "Bugungi kun juda ajoyib bo'ldi. Yaxshi xotiralarga boy va qiziqarli o'tdi. Eng yaqin insonim uchun kayfiyat manbai ekanman. U ham mening kayfiyat manbaimdir. Meni ijod qilishga undaydigan insondir. Shu bois bugunning o'zida ancha ishlarni qildim",
+    "cover_image": null,
+    "content": "Ilhom manbaim",
+    "tags": ["my-love"]
   }
 ]
