@@ -3,11 +3,22 @@
     "id": 1,
     "date": "22-Sentyabr, 2026",
     "date_iso": "2026-09-22",
-    "time": "00:00",
+    "time": "16:37",
     "author": "Samirbek Jabborov",
     "title": "Mening birinchi xotiram",
     "cover_image": null,
     "content": "Bu mening birinchi xotiram. Shu sahifa orqali hayotimdagi muhim lahzalar, fikrlar va kichik quvonchlarni saqlab boraman. Har bir yangi yozuv men uchun qadrli xotiraga aylanadi.",
+    "tags": ["birinchi xotira"]
+  },
+  {
+    "id": 2,
+    "date": "22-Sentyabr, 2026",
+    "date_iso": "2026-09-22",
+    "time": "16:37",
+    "author": "Samirbek Jabborov",
+    "title": "Bu kimga atalgan?",
+    "cover_image": null,
+    "content": "Siz bu blokni o'qiy olyapsizmi? Demak bu sizga atalgan. Endi daraxt shakllantirishim mumkin. Tarixni chiroyli yozishib qoldirishimiz mumkin. Bu loyiham bugun tugadi va birinchi sizga ilindim quyoshim.",
     "tags": ["birinchi xotira"]
   }
 ]
